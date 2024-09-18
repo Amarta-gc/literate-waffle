@@ -1,0 +1,11 @@
+fdjsflkdjsf
+lsdkjflskdjf
+slkdjflskdfj 
+dslkjflsdkfj
+idfjdslfj
+fsdfijdsflksdjfldsjfldskjf
+isdkfjsdlkfjsdlkfj
+dsjfsdljfldsjf
+now git diff should work cause the changes 
+i am making are not added or not staged  
+it is unstaged so lets see
