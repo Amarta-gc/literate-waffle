@@ -6,6 +6,5 @@ idfjdslfj
 fsdfijdsflksdjfldsjfldskjf
 isdkfjsdlkfjsdlkfj
 dsjfsdljfldsjf
-now git diff should work cause the changes 
-i am making are not added or not staged  
-it is unstaged so lets see
+now should see the changes between staged and the last
+commit so lets see first the staged and then commit
